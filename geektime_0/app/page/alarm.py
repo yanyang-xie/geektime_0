@@ -1,0 +1,13 @@
+
+class Alarm:
+    def add_clarm(self):
+        ...
+
+    def enable(self):
+        ...
+
+    def disable(self):
+        ...
+
+    def delete_alarm(self):
+        ...
